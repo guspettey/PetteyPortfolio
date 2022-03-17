@@ -13,7 +13,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Angus Pettey # author name
   bio: >- # tell to the world
-      After graduating from the University of Nottingham with a First Class Masters of Engineering, I was offered a PhD <a href="https://www.nottingham.ac.uk/research/groups/nottingham-centre-for-geomechanics/index.aspx" target="_blank" rel="noopener">@ Nottingham Centre for Geomechanics</a>.
+    The website of a PhD student studying Soil-Structure Interaction through modern computational and analytical techniques. 
+    Posting about my projects, neat code, or stuff I find interesting.
   username: gustafferson # general username
   github: gustafferson # github username
   twitter: twitter_username # twitter username
