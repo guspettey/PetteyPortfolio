@@ -12,7 +12,7 @@ One major factor in this is imposter syndrome.
 At some point, I am sure everyone under the sun has experienced a feeling of being way out of their depth and not able to surmount the tasks in front of them. 
 A quick search of [the PhD subreddit](https://reddit.com/r/phd) reveals countless references to this phenomenon among postgrad students, which I initially took as warm relief that I was in good company when beginning my postgrad studies.
 
-![The depths of despair on the PhD subreddit](/images/ImposterSyndrome/ImposterSyndromeRedditSearch.png "The depths of dispare on the PhD subreddit")
+![The depths of despair on the PhD subreddit](/ImposterSyndrome/ImposterSyndromeRedditSearch.png "The depths of dispair on the PhD subreddit")
 
 However, as I began to find out, this feeling of inadequacy can begin to cripple personal development as opportunities are turned down, or at the very least the maximum benefit is not achieved from them.
 
