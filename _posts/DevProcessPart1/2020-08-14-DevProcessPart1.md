@@ -23,7 +23,8 @@ The specific case of interest for me is how the shape of a grain of sand influen
 In the Nottingham Centre for Geomechanics we have a simple apparatus used to simulate this that I designed last year, a schematic of it is pictured below.
 
 
-![Schematic of the single particle shear apparatus](\DevProcessPart1\SingleParticleSchematic.png )
+![Schematic of the single particle shear apparatus](\DevProcessPart1\SingleParticleSchematic.png)
+
 
 The sand particle is held in position under a small load whilst the structural interface (metal plate) is sheared (moved) underneath the particle thousands of times. In many ways its not dissimilar to a stylus moving through the grooves of a vinyl record. 
 I can hear you now say "those records don't show an awful lot of damage after **tens** of thousands of rotations, what gives?" Well that is the burning question, what does cause the damage, if any?
