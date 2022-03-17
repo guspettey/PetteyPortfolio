@@ -2,11 +2,11 @@
   url: /
   external: false
 
-- title: archive
+- title: Post Archive
   url: /archive/
   external: false
 
-- title: about
+- title: About Me
   url: /about/
   external: false # set true if you using external link, see below
 
