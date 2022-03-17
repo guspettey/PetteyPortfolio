@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Welcome"
+date:   2020-06-03 10:58:19 +0000
+tags: [Pettey.co.uk, life, corona]
+---
+What with [THE EVENT][THE-EVENT] I thought it's about time I flex my literary muscles and upload some posts to the blog I inexplicably bought a domain for.
+
+These posts will be on a variety of topics that I at least have some stake in discussing.
+In many ways `pettey.co.uk` serves as a technologically advanced bottle drifting in the ocean of the [world wide web][www].
+Unfortunately if you do happen to come across it, hard luck, there's no life affirming tales on offer, or maps to buried treasure.
+
+So without further ado, welcome, and try to enjoy your stay.
+
+
+
+[THE-EVENT]: https://www.youtube.com/watch?v=wnd1jKcfBRE
+[www]:   https://xkcd.com/181/
+
