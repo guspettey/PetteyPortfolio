@@ -15,10 +15,10 @@ comments: false
 
 ## At a glance
 
-#### 2015 - 2019: MEng Civil Engineering @ University of Nottingham
-#### 2015 - 2018: Undergraduate placements with Balfour Beatty & Taylor Woodrow/VINCI UK
-#### 2019: Graduate with first class honours MEng Civil Engineering
-#### 2019 - 2023: Studying for PhD within [Nottingham Centre for Geomechanics](https://www.nottingham.ac.uk/research/groups/nottingham-centre-for-geomechanics/index.aspx) @ University of Nottingham
+**2015 - 2019:** MEng Civil Engineering @ University of Nottingham
+**2015 - 2018:** Undergraduate placements with Balfour Beatty & Taylor Woodrow/VINCI UK
+**2019:** Graduate with first class honours MEng Civil Engineering
+**2019 - 2023:** Studying for PhD within [Nottingham Centre for Geomechanics](https://www.nottingham.ac.uk/research/groups/nottingham-centre-for-geomechanics/index.aspx) @ University of Nottingham
 
 
 ## PhD Research Overview
@@ -54,7 +54,8 @@ Publications are being worked on currently...
   With a better understanding of the fundamental physical interaction between soils and structural interfaces, more accurate estimations of long-term cyclical shear response can be made leading to more economic and safer geotechnical designs.
  
 
- ## Other interests
+ ## Other Interests
+ 
  I've got something of an addiction for sports, training for 'half-distance' triathlons, cycling road racing, golf, oh and football too. 
  When I'm not training I'm probably cooking or playing chess.
 
