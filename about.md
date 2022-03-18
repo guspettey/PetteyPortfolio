@@ -15,10 +15,13 @@ comments: false
 
 ## At a glance
 
-**2015 - 2019:** MEng Civil Engineering @ University of Nottingham
-**2015 - 2018:** Undergraduate placements with Balfour Beatty & Taylor Woodrow/VINCI UK
-**2019:** Graduate with first class honours MEng Civil Engineering
-**2019 - 2023:** Studying for PhD within [Nottingham Centre for Geomechanics](https://www.nottingham.ac.uk/research/groups/nottingham-centre-for-geomechanics/index.aspx) @ University of Nottingham
+**2015 - 2019:** MEng Civil Engineering @ University of Nottingham  
+
+**2015 - 2018:** Undergraduate placements with Balfour Beatty & Taylor Woodrow/VINCI UK  
+
+**2019:** Graduate with first class honours MEng Civil Engineering  
+
+**2019 - 2023:** Studying for PhD within [Nottingham Centre for Geomechanics](https://www.nottingham.ac.uk/research/groups/nottingham-centre-for-geomechanics/index.aspx) @ University of Nottingham  
 
 
 ## PhD Research Overview
