@@ -1,8 +1,10 @@
 ---
-creation date: 2022-03-17 17:23
-modification date: Thursday 17th March 2022 17:23:41
+layout: post
+title:  "Paper Development Process: Part Three"
+date:   2022-03-17 17:23:00 +0000
+tags: [PaperDevelopment, PhD, ProblemSolving]
 ---
-Associations: [[pettey.co.uk]][[⛳ - ❎ Update personal website]][[📚Particle Virtualization]]
+
 # Paper Development Part Three
 ## A short intermission
 A lot of time has passed since my last update to this series...
