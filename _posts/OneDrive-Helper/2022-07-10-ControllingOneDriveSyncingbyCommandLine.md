@@ -16,6 +16,8 @@ Whilst OneDrive is easy to interact with via Windows File Explorer/MacOS Finder,
 To simplify this process, [a gist is available on my github](https://gist.github.com/Gustafferson/fb6b25f599d25561f53b691097efa18d) containing two python functions for pinning (download) and unpinning (offload) files from a OneDrive or Sharepoint hosted directory, by a subprocess call.
 The directories first need to be synced to your machine, *and if on MacOS* the path to the OneDrive executable needs to be given in the python file.
 
+These functions work idnetically on both Windows and MacOS, as python's `pathlib` module is used to detect whether a path is Windows or MacOS flavoured.
+
 <script src="https://gist.github.com/Gustafferson/fb6b25f599d25561f53b691097efa18d.js"></script>
 
 Here outputs of the subprocess command are redirected to DEVNULL but revealing the outputs will return the exit code on MacOS.
